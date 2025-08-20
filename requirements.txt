@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+pypdf2
+transformers
+bs4
+unstructured
+scikit-learn
+transformers
+pandas
+numpy
+tensorflow
+langchain-chroma
+chromadb
+IPykernel
